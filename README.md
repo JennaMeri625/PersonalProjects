@@ -24,5 +24,12 @@ Recreating various web applications to keep code fresh in my mind while going th
 ![Filter Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/a8f7d657-9fd0-42e2-82c7-c4992c9140cb)
 
 
+## Weather App Project
+![WeatherAppProject1](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/1c81ac26-8255-4066-9d60-8ae88e27a4c2)
+![WeatherAppProject2](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/9bd4cbf6-8be3-4278-9316-0d8c00094d2f)
+
+![Weather App Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/90e15668-def7-4712-bc6d-e522a37b39b6)
+
+
 
 
