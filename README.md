@@ -30,6 +30,11 @@ Recreating various web applications to keep code fresh in my mind while going th
 <img src="https://github.com/JennaMeri625/PersonalProjects/assets/114081695/e4e0299a-4d95-45f3-ae53-a48d8983e21a" width="50%" height="50%">
 <img src="https://github.com/JennaMeri625/PersonalProjects/assets/114081695/639bfaca-3ba0-4b07-bec0-cf1607e199f5" width="50%" height="50%">
 
+## Notes Project 🗒️
+<img src="https://github.com/JennaMeri625/PersonalProjects/assets/114081695/f3ee9a67-36a6-46ea-b06a-2f115e36dd26" width="50%" height="50%">
+<img src="https://github.com/JennaMeri625/PersonalProjects/assets/114081695/b67ea9b2-d93f-4f20-999a-1abb1c72be12" width="50%" height="50%">
+<img src="https://github.com/JennaMeri625/PersonalProjects/assets/114081695/8a2ec1fb-8246-43e9-ba25-109bda404730" width="50%" height="50%">
+
 # Project Videos 🎥
 ![Slider Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/b6b211f8-bae5-438a-86da-cc4ac9291ffd),                                                                                      
 ![Quiz Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/bfa46dc1-613b-4f9d-b4f4-683de704c31d),                                                                                        
@@ -37,4 +42,6 @@ Recreating various web applications to keep code fresh in my mind while going th
 ![Weather App Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/1178e0db-31b3-410b-b20d-b2dd7ad11276),                                                                                 
 ![To-Do List Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/eb4ad5a2-9a39-4d27-ae3f-796f15a8ff6f),                                                                                  
 ![Random Password Generator Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/1f9535ff-5aed-4e99-b513-c7def6a6aea4)  
+![Notes Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/e498d4b8-e5e9-4ea0-ae0f-110c00b1db71)
+
 
