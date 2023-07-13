@@ -30,3 +30,15 @@ Recreating various web applications to keep code fresh in my mind while going th
 ![WeatherAppProject2](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/9bd4cbf6-8be3-4278-9316-0d8c00094d2f)
 
 ![Weather App Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/1178e0db-31b3-410b-b20d-b2dd7ad11276)
+
+##To-Do List Project
+![ToDoListProject1](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/b71ff7a0-5b32-4380-86fe-a52ca5c8a924)
+![ToDoListProject2](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/d0df251a-cf26-41f4-9c49-6ba9b21f730a)
+![ToDoListProject3](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/4f73cdf5-db16-486f-946f-ea4086a2efc4)
+![ToDoListProject4](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/e4d6910f-f8c5-42b2-b8f4-86f6ea61009a)
+
+![To-Do List Project Video](https://github.com/JennaMeri625/PersonalProjects/assets/114081695/eb4ad5a2-9a39-4d27-ae3f-796f15a8ff6f)
+
+
+
+
