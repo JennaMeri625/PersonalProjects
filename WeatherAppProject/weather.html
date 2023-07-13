@@ -53,7 +53,7 @@
         async function checkWeather(city) {
             const response = await fetch(apiUrl + city + `${apiKey}`);
 
-            if (response.status == 404) {
+            if (response.status == 400) {
                 document.querySelector(".error").style.display = "block";
                 document.querySelector(".weather").style.display = "none";
             }
@@ -66,6 +66,10 @@
                 document.querySelector(".temp").innerHTML = Math.round(data.current.temp_c) + "°c";
                 document.querySelector(".humidity").innerHTML = data.current.humidity + "%";
                 document.querySelector(".windy").innerHTML = data.current.wind_kph + " kph";
+
+
+                // Need to fix these... they're not changing like they should...
+
 
                 if (data.current.condition.text == "Cloudy") {
                     weatherIcon.src = "Icons/cloudy.png";
@@ -90,7 +94,7 @@
                 }
 
                 document.querySelector(".weather").style.display = "block";
-                // document.querySelector(".error").style.display = "none";
+                document.querySelector(".error").style.display = "none";
 
             }
         }
